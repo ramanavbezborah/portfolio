@@ -61,8 +61,7 @@ _Visit the website for full details and interactive elements._
 
 ## 📫 Contact
 
-- 📧 Email: [yourname@email.com]
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com)
+- 💼 LinkedIn: [linkedin.com/in/ramanavbezborah](https://linkedin.com)
 - 🔗 GitHub: [github.com/ramanavbezborah](https://github.com/ramanavbezborah)
 
 Let’s connect! I’m open to full-time roles in data analytics, BI, or related fields.
