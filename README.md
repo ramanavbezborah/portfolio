@@ -34,13 +34,13 @@
 
 ## 🚀 Projects
 
-### 🛍️ Sales Forecasting for Inventory Optimisation  
+### 🛍️ Sales Forecasting for Inventory Optimisation - <a href="https://ramanavbezborah.github.io/Sales-Forecasting-for-Inventory-Optimisation/">Project Link</a>
 **Excel, Solver, Time Series Aggregation, Forecast Metrics**  
 - Forecasted monthly demand from 4,300+ daily entries using Holt’s Linear, Holt-Winters & Damped-Trend models.  
 - Optimized models using Excel Solver; the combined forecast had lowest MAE, MAPE, RMSE.  
 - Resulted in better stock ordering, reducing stockouts and inventory waste.
 
-### 🏨 Review-Based Sentiment Modelling  
+### 🏨 Review-Based Sentiment Modelling - <a href="https://ramanavbezborah.github.io/Review-Based-Sentiment-Modelling/">Project Link</a>  
 **Orange, Python, LDA, Geocoding**  
 - Analyzed 1,500+ Booking.com hotel reviews using NLP.  
 - Performed sentiment analysis & LDA topic modeling; 90% reviews were positive.  
@@ -51,11 +51,11 @@
 - Built interactive Tableau dashboards analyzing healthcare trends in 200+ countries.  
 - Identified spending disparities and life expectancy shifts post-pandemic.
 
-### 🧠 Employee Work Engagement Study  
+### 🧠 Employee Work Engagement Study - <a href="https://ramanavbezborah.github.io/Employee-Work-Engagement/">Project Link</a> 
 **IBM SPSS, Regression, T-tests**  
 - Surveyed 100 employees; used regression & t-tests to reveal that gender, workload, and learning opportunities explained 82.3% variance in engagement.
 
-### 🏘️ Property Market Analysis  
+### 🏘️ Property Market Analysis - <a href="https://ramanavbezborah.github.io/Property-Market-Analysis/">Project Link</a>
 **Excel, PivotTables, Power Query**  
 - Cleaned and analyzed 7,000+ property records across ACT, SA & QLD.  
 - Detected skewness & outliers; recommended use of IQR and 95% CI to guide housing investment decisions.
