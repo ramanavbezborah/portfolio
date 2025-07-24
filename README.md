@@ -1,97 +1,81 @@
-# 👋 Hi, I'm Ramanav Bezborah
+## 👨‍💼 About Me
 
-🎓 International MBA (Business Analytics) | 📍 Adelaide, Australia  
-📊 Passionate about data-driven decision making, storytelling through dashboards, and building machine learning solutions for business insight.
+I am a recent International MBA (Business Analytics) graduate from the University of South Australia with hands-on internship experience at Quinlan Consulting. My skill set includes data analysis, business intelligence, and predictive modelling using tools such as Python, SQL, Excel, Tableau, and Microsoft Power Platform.
 
----
-
-## 📘 Education
-
-**University of South Australia**  
-*International MBA (Business Analytics)*  
-📍 Adelaide, SA | **Jul 2023 – Jun 2025**  
-- 🏆 Chancellor’s Letter of Commendation  
-- 🌍 International Merit Scholarship recipient  
-- 🌟 Member of Golden Key International Honour Society (Top 15% globally)  
-  <a target="_blank" href="https://golden-key-international-honou.verified.cv/en/verify/84039677870995">
-    <img src="https://storage.googleapis.com/verified-storage/cert/84039677870995.png" alt="Golden Key Certificate" height="150">
-  </a>
+I enjoy turning complex data into actionable insights and building analytical tools that support strategic decision-making.
 
 ---
 
-## 💼 Work Experience
+## 🧩 Featured Projects
 
-**Business Analyst Intern**  
-**Quinlan Consulting**, Melbourne, VIC  
-📅 Mar 2025 – May 2025  
-- Developed custom Power BI dashboards using DAX & Power Query to meet stakeholder reporting needs.  
-- Queried MySQL databases (JOIN, COUNT, SUM, AVG) for financial and operational insights.  
-- Automated reporting pipelines with Excel and OData APIs for monthly budgeting and planning.  
-- Delivered P&L and Income Statements visualized in Tableau and Power BI.  
-- Supported cross-functional teams with real-time business insights.
-
----
-
-## 🚀 Projects
-
-### 🛍️ Sales Forecasting for Inventory Optimisation - <a href="https://ramanavbezborah.github.io/Sales-Forecasting-for-Inventory-Optimisation/">Project Link</a>
-**Excel, Solver, Time Series Aggregation, Forecast Metrics**  
+### 🛍️ [Sales Forecasting for Inventory Optimisation](https://ramanavbezborah.github.io/Sales-Forecasting-for-Inventory-Optimisation/)  
+**Excel, Solver, Time Series Aggregation**  
 - Forecasted monthly demand from 4,300+ daily entries using Holt’s Linear, Holt-Winters & Damped-Trend models.  
-- Optimized models using Excel Solver; the combined forecast had lowest MAE, MAPE, RMSE.  
-- Resulted in better stock ordering, reducing stockouts and inventory waste.
+- Used Excel Solver to optimize model accuracy; combined forecasts minimized MAE, MAPE, and RMSE.  
+- Helped improve inventory management by reducing stockouts and excess stock.
 
-### 🏨 Review-Based Sentiment Modelling - <a href="https://ramanavbezborah.github.io/Review-Based-Sentiment-Modelling/">Project Link</a>  
-**Orange, Python, LDA, Geocoding**  
-- Analyzed 1,500+ Booking.com hotel reviews using NLP.  
-- Performed sentiment analysis & LDA topic modeling; 90% reviews were positive.  
-- Visualized with geo-maps, heatmaps, and word clouds. Recommended service, marketing, and cultural improvements.
+### 🏨 [Review-Based Sentiment Modelling](https://ramanavbezborah.github.io/Review-Based-Sentiment-Modelling/)  
+**Orange, Python, NLP, LDA, Geocoding**  
+- Analyzed 1,500+ Booking.com reviews with sentiment analysis and topic modelling (LDA).  
+- Found 90%+ positive reviews; visualized insights using heatmaps, word clouds, and geo-maps.  
+- Generated actionable suggestions for service, marketing, and experience improvements.
 
-### 🏥 Post-COVID Healthcare Expenditure  - <a href="https://ramanavbezborah.github.io/Post-Covid-Healthcare-Expenditure/">Project Link</a>
+### 🏥 [Post-COVID Healthcare Expenditure](https://ramanavbezborah.github.io/Post-Covid-Healthcare-Expenditure/)  
 **Tableau, Power Query, World Bank Data**  
-- Built interactive Tableau dashboards analyzing healthcare trends in 200+ countries.  
-- Identified spending disparities and life expectancy shifts post-pandemic.
+- Built interactive dashboards to analyze post-COVID health expenditure trends in 200+ countries.  
+- Identified life expectancy shifts and spending disparities across regions.
 
-### 🧠 Employee Work Engagement Study - <a href="https://ramanavbezborah.github.io/Employee-Work-Engagement/">Project Link</a> 
+### 🧠 [Employee Work Engagement Study](https://ramanavbezborah.github.io/Employee-Work-Engagement/)  
 **IBM SPSS, Regression, T-tests**  
-- Surveyed 100 employees; used regression & t-tests to reveal that gender, workload, and learning opportunities explained 82.3% variance in engagement.
+- Collected and analyzed survey data from 100 employees.  
+- Regression and t-tests revealed gender, workload, and learning opportunities explained 82.3% of engagement variance.
 
-### 🏘️ Property Market Analysis - <a href="https://ramanavbezborah.github.io/Property-Market-Analysis/">Project Link</a>
+### 🏘️ [Property Market Analysis](https://ramanavbezborah.github.io/Property-Market-Analysis/)  
 **Excel, PivotTables, Power Query**  
 - Cleaned and analyzed 7,000+ property records across ACT, SA & QLD.  
-- Detected skewness & outliers; recommended use of IQR and 95% CI to guide housing investment decisions.
+- Identified skewness and outliers; recommended IQR and 95% CI for investment decisions.
+
+
+_Visit the website for full details and interactive elements._
 
 ---
 
-## 🏅 Awards & Recognitions
+## 🧰 Tools & Technologies
 
-- 🏆 Chancellor’s Letter of Commendation — Top Academic Achievement  
-- 🌍 International Merit Scholarship  
-- 🌟 Golden Key International Honour Society (Top 15% globally)  
-  <a target="_blank" href="https://golden-key-international-honou.verified.cv/en/verify/84039677870995">
-    <img src="https://storage.googleapis.com/verified-storage/cert/84039677870995.png" alt="Golden Key Certificate" height="100">
-  </a>
+- **Analytical Tools**: Excel, IBM SPSS, Power BI, Power Query, Tableau
+- **Languages**: SQL, DAX
+- **Data Mining/Machine Learning**: Orange Data Mining (Python Script)
+- **Technologies/Frameworks**: GitHub, WordPress
 
----
-
-## 🔧 Tools & Technologies
-
-**Languages:** SQL, DAX  
-**Analytics Tools:** Excel, IBM SPSS, Orange, Tableau, Power BI  
-**Other:** GitHub, Power Query, WordPress, MySQL, APIs, Solver
 
 ---
 
-## 🌱 Currently Exploring
-- Learning **Python** & **R** for advanced statistical modeling  
-- Exploring **natural language processing** and **machine learning** applications  
-- Working on new visual analytics dashboards with Power BI & Tableau  
-- Diving into data ethics and AI trends
+## 🏆 Awards & Recognition
+
+- Chancellor’s Letter of Commendation – University of South Australia
+- International Merit Scholarship recipient
+- Golden Key International Honour Society (Top 15% globally)
+  [![Golden Key Certificate](https://storage.googleapis.com/verified-storage/cert/84039677870995.png)](https://golden-key-international-honou.verified.cv/en/verify/84039677870995)
 
 ---
 
-## 📫 Connect with Me
+## 📫 Contact
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ramanavbezborah)  
-🐙 [GitHub Portfolio](https://github.com/ramanavbezborah)    
-📍 Adelaide, Australia
+- 📧 Email: [yourname@email.com]
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com)
+- 🔗 GitHub: [github.com/ramanavbezborah](https://github.com/ramanavbezborah)
 
+Let’s connect! I’m open to full-time roles in data analytics, BI, or related fields.
+
+---
+
+## 📁 Repository Info
+
+This repository contains:
+- The HTML/CSS/JS source code of my portfolio
+- Assets (images, badges)
+- This README file for recruiter reference
+
+---
+
+> 💡 _“Data is not just about numbers — it’s about unlocking stories that drive decisions.”_
