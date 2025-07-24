@@ -46,7 +46,7 @@
 - Performed sentiment analysis & LDA topic modeling; 90% reviews were positive.  
 - Visualized with geo-maps, heatmaps, and word clouds. Recommended service, marketing, and cultural improvements.
 
-### 🏥 Post-COVID Healthcare Expenditure  
+### 🏥 Post-COVID Healthcare Expenditure  - <a href="https://ramanavbezborah.github.io/Post-Covid-Healthcare-Expenditure/">Project Link</a>
 **Tableau, Power Query, World Bank Data**  
 - Built interactive Tableau dashboards analyzing healthcare trends in 200+ countries.  
 - Identified spending disparities and life expectancy shifts post-pandemic.
