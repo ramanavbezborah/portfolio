@@ -91,8 +91,7 @@
 
 ## 📫 Connect with Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-🐙 [GitHub Portfolio](https://github.com/ramanavbezborah)  
-📧 Email: your.email@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ramanavbezborah)  
+🐙 [GitHub Portfolio](https://github.com/ramanavbezborah)    
 📍 Adelaide, Australia
 
